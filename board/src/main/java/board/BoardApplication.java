@@ -12,9 +12,4 @@ public class BoardApplication {
 	public static void main(String[] args) {
 	    SpringApplication.run(BoardApplication.class, args);
 	}
-
-	/*
-	 * @Bean public HiddenHttpMethodFilter hiddenHttpMethodFilter() { return new
-	 * HiddenHttpMethodFilter(); }
-	 */
 }
